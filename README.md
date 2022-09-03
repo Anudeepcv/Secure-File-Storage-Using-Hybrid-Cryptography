@@ -24,7 +24,7 @@ be decrypted to get the blowfish key. By using this blowfish key the encrypted f
 
 2. The Blowfish key is used to decrypt the files.
 
-## Algorithms
+# Algorithms
 ### 1. Blowfish
 
 ➢ Blowfish is a secret keyed, symmetric cryptographic block cipher. 
